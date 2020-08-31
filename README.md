@@ -1,4 +1,5 @@
 # Study English By DATV with 3000 vocabulary!
+```
 Hello có nghĩa Xin chào
 Goodbye tạm biệt, thì thào Whisper
 Lie nằm, Sleep ngủ, Dream mơ
@@ -307,3 +308,7 @@ SPOON có nghĩa cái thìa
 Toán trừ SUBTRACT, toán chia DIVIDE
 PLOUGH tức là đi cày
 WEEK tuần MONTH tháng, WHAT TIME mấy giờ?
+```
+*By DATV*
+- Contace me by DATV
+https://www.instagram.com/kanz_vdat/?hl=vi
